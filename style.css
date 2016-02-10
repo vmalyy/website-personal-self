@@ -1,0 +1,28 @@
+	   h1 {
+	   	color: purple;
+	   	background-color: black;
+	   }
+		
+		.Intro {
+			color: orange;
+		}
+
+		.main {
+			color: green;
+		}
+
+		.conl {
+			color: black;
+		}
+
+		.square {
+			color: blue; 
+			height: 100px;
+			width: 100px;
+		}
+
+		#shape {
+			background-color: red;
+			border-radius: 5%;
+		}
+	
